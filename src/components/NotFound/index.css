@@ -1,0 +1,23 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.not-found-img {
+  height: 60vh;
+}
+
+.not-heading {
+  font-weight: 500;
+  font-size: 36px;
+  color: #5a7184;
+}
+
+.not-para {
+  font-weight: 600;
+  font-size: 18px;
+  color: #5a7184;
+}

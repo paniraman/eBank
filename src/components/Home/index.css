@@ -1,0 +1,51 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #183b56;
+  height: 100vh;
+}
+
+.logo-container {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+}
+
+.logo-style {
+  height: 10vh;
+}
+
+.logout-btn {
+  background-color: transparent;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  color: #ffffff;
+  border-color: #ffffff;
+  padding: 10px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+
+.visa-container {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.visa-heading {
+  font-weight: 600;
+  font-size: 48px;
+  color: #ffffff;
+}
+
+.visa-style {
+  height: 50vh;
+}
